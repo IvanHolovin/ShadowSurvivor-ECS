@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2622f4078e954d88bcafd45f089eab8a, type: 3}
+  m_Name: Huge energy blast
+  m_EditorClassIdentifier: 
+  Name: Huge energy blast
+  Icon: {fileID: 21300000, guid: 390ef0cb4d2cb0b41b56db544ae18e11, type: 3}
+  Descriptions:
+  - Thow a large energy blast in a random direction
+  - Throw 2 blasts at once!
+  - Throw 3 blasts!
+  - Throw 4 blasts!
